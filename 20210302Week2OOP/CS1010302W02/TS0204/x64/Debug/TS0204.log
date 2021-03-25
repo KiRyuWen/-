@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\User\OneDrive\桌面\2021年物件導向\實習\CS1010302W02\TS0204\Source.cpp(9,28): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\User\OneDrive\桌面\2021年物件導向\實習\CS1010302W02\TS0204\Source.cpp(15,26): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\User\OneDrive\桌面\2021年物件導向\實習\CS1010302W02\TS0204\Source.cpp(33,20): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\User\OneDrive\桌面\2021年物件導向\實習\CS1010302W02\TS0204\Source.cpp(45,12): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\OneDrive\桌面\2021年物件導向\實習\CS1010302W02\TS0204\Source.cpp(52,21): warning C4018: '<': signed/unsigned 不相符
+  TS0204.vcxproj -> C:\Users\User\OneDrive\桌面\2021年物件導向\實習\CS1010302W02\x64\Debug\TS0204.exe

@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\RB510\Desktop\CS1010302W04\TS0405\Source.cpp(27): warning C4715: 'OutputCollatz_conjecture': 不是所有控制路徑都傳回值
-  TS0405.vcxproj -> C:\Users\RB510\Desktop\CS1010302W04\x64\Debug\TS0405.exe
